@@ -36,3 +36,7 @@ and `npm test`, once you enable workflows on your fork from the Actions tab.
 - Setup: `SETUP.md`
 
 See the Lab 5 handout on the course page for the three milestones you show a TA.
+
+## Tool disclosure
+
+I used Codex (GPT-5) to help analyze the starter code and make the small refactoring.
